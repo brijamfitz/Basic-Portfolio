@@ -1,9 +1,17 @@
-header {
-    background-color: gray;
-    margin-bottom: 20px;
+body {
     padding: 0;
+    margin: 0;
 
 }
+
+
+header {
+    background-color: gray;
+    padding: 20px;
+    margin: 0;
+
+}
+
 
 .about-me {
     background-color: cyan;
@@ -12,6 +20,7 @@ header {
     width: 800px;
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
@@ -21,8 +30,10 @@ header {
     margin-left: auto;
     margin-right: auto;
     width: 600px;
+    height: 420px;
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
@@ -32,14 +43,19 @@ header {
     margin-left: auto;
     margin-right: auto;
     width: 600px;
+    height: 800px;
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
 
 footer {
     background-color: gray;
+    padding: 10px;
+    text-align: center;
+    margin-top: 400px;
     
 }
 
