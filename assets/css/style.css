@@ -23,6 +23,8 @@ header {
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
     margin-bottom: 40px;
+    border: solid;
+    border-color: #dddddd;
 
 }
 
@@ -36,6 +38,8 @@ header {
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
     margin-bottom: 40px;
+    border: solid;
+    border-color: #dddddd;
 
 }
 
@@ -49,6 +53,8 @@ header {
     padding: 20px 20px 20px 20px;
     margin-top: 40px;
     margin-bottom: 40px;
+    border: solid;
+    border-color: #dddddd;
 
 }
 
