@@ -36,6 +36,11 @@ h2 {
     
 }
 
+a {
+    padding: 5px;
+
+}
+
 
 .about-me {
     background-color: cyan;
@@ -120,7 +125,7 @@ img {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     float: right;
     margin-top: -56px;
-    margin-right: -55px;
+    margin-right: -48px;
 
 }
 
