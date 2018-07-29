@@ -27,7 +27,13 @@ h1 {
     text-align: center;
     font-size: 22px;
     margin-bottom: 0;
+    margin-left: -24px;
 
+}
+
+h2 {
+    color: #4aaaa5;
+    
 }
 
 
@@ -41,6 +47,9 @@ h1 {
     margin-bottom: 40px;
     border: solid;
     border-color: #dddddd;
+    color: #777777;
+    background-color: #ffffff;
+    line-height: 1.5;
 
 }
 
@@ -56,6 +65,9 @@ h1 {
     margin-bottom: 40px;
     border: solid;
     border-color: #dddddd;
+    color: #777777;
+    background-color: #ffffff;
+    line-height: 1.5;
 
 }
 
@@ -71,6 +83,9 @@ h1 {
     margin-bottom: 40px;
     border: solid;
     border-color: #dddddd;
+    color: #777777;
+    background-color: #ffffff;
+    line-height: 1.5;
 
 }
 
@@ -83,6 +98,8 @@ footer {
     border-top: solid;
     border-color: #4aaaa5;
     color: #ffffff;
+    border-width: 10px;
+    font-size: 14px;
     
 }
 
@@ -103,6 +120,7 @@ img {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     float: right;
     margin-top: -56px;
+    margin-right: -55px;
 
 }
 
