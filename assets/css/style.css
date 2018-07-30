@@ -53,7 +53,10 @@ footer {
     border-color: #4aaaa5;
     color: #ffffff;
     border-width: 10px;
-    font-size: 14px;   
+    font-size: 14px; 
+    /* position: fixed;
+    bottom: 0;
+    width: 100%;   */
 }
 
 img {
@@ -73,6 +76,7 @@ textarea {
     margin-bottom: 10px;
 }
 
+/* This is on index.html */
 .about-me {
     background-color: cyan;
     margin-left: auto;
@@ -88,6 +92,7 @@ textarea {
     line-height: 1.5;
 }
 
+/* This is on contact.html */
 .contact {
     background-color: cyan;
     margin-left: auto;
@@ -104,6 +109,7 @@ textarea {
     line-height: 1.5;
 }
 
+/* This is on portfolio.html */
 .portfolio {
     background-color: cyan;
     margin-left: auto;
@@ -139,6 +145,7 @@ textarea {
     margin-left: auto;
 }
 
+/* These are on portfolio.html */
 .image-1 {
     position: relative;
 }
