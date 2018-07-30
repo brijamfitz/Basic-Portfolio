@@ -170,8 +170,8 @@ textarea {
     position: absolute;
     bottom: -150px;
     text-align: center;
-    
-
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .image-2-text {
@@ -183,6 +183,8 @@ textarea {
     text-align: center;
     left: 220px;
     bottom: -150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .image-3-text {
@@ -195,6 +197,8 @@ textarea {
     text-align: center;
     left: 440px;
     bottom: -150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .image-4-text {
@@ -207,6 +211,8 @@ textarea {
     text-align: center;
     left: 660px;
     bottom: -150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .image-5-text {
@@ -219,4 +225,6 @@ textarea {
     text-align: center;
     right: 760px;
     bottom: -330px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
