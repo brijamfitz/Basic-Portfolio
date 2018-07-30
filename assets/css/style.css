@@ -12,7 +12,7 @@ header {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-bottom: 0;
     border-bottom: solid;
-    border-color: #cccccc;   
+    border-color: #cccccc;
 }
 
 h1 {
@@ -62,13 +62,13 @@ img {
 }
 
 input {
-    width: 950px;
+    width: 955px;
     height: 20px;
     margin-bottom: 10px;
 }
 
 textarea {
-    width: 950px;
+    width: 955px;
     height: 200px;
     margin-bottom: 10px;
 }
