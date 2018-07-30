@@ -2,10 +2,8 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-color: lightcoral;
-    
+    background-image: url("../images/concrete-texture.png");    
 }
-
 
 header {
     background-color: #ffffff;
@@ -14,10 +12,8 @@ header {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-bottom: 0;
     border-bottom: solid;
-    border-color: #cccccc;
-    
+    border-color: #cccccc;   
 }
-
 
 h1 {
     background-color: #4aaaa5;
@@ -28,26 +24,21 @@ h1 {
     font-size: 22px;
     margin-bottom: 0;
     margin-left: -24px;
-
 }
 
 h2 {
-    color: #4aaaa5;
-    
+    color: #4aaaa5;   
 }
 
 a {
     padding: 5px;
-
 }
 
 button {
     color: #ffffff;
     background-color: #4aaaa5;
-    padding: 5px 10px 5px 10px;
-    
+    padding: 5px 10px 5px 10px;   
 }
-
 
 footer {
     background-color: #666666;
@@ -58,32 +49,25 @@ footer {
     border-color: #4aaaa5;
     color: #ffffff;
     border-width: 10px;
-    font-size: 14px;
-    
+    font-size: 14px;   
 }
-
 
 img {
     float: left;
     padding-right: 20px;
-
 }
-
 
 input {
     width: 950px;
     height: 20px;
     margin-bottom: 10px;
-
 }
-
 
 textarea {
     width: 950px;
     height: 200px;
     margin-bottom: 10px;
 }
-
 
 .about-me {
     background-color: cyan;
@@ -98,16 +82,14 @@ textarea {
     color: #777777;
     background-color: #ffffff;
     line-height: 1.5;
-
 }
-
 
 .contact {
     background-color: cyan;
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    height: 480px;
+    /* height: 480px; */
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
     margin-bottom: 40px;
@@ -116,9 +98,7 @@ textarea {
     color: #777777;
     background-color: #ffffff;
     line-height: 1.5;
-
 }
-
 
 .portfolio {
     background-color: cyan;
@@ -134,9 +114,7 @@ textarea {
     color: #777777;
     background-color: #ffffff;
     line-height: 1.5;
-
 }
-
 
 .links {
     background-color: #ffffff;
@@ -149,13 +127,37 @@ textarea {
     margin-top: -56px;
     margin-right: -48px;
     color: #777777;
-
 }
-
 
 .header-container {
     width: 960px;
     margin-right: auto;
     margin-left: auto;
+}
 
+.image-1 {
+    position: relative;
+}
+
+.image-2 {
+    position: relative;
+    left: 50px;
+    bottom: 23px;
+}
+
+.image-3 {
+    position: relative;
+    right: 440px;
+    top: 200px;
+}
+
+.image-4 {
+    position: relative;
+    right: 390px;
+    top: 176px;
+}
+
+.image-5 {
+    position: relative;
+    top: 220px;
 }
