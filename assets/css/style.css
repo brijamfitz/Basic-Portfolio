@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    color: #4aaaa5;   
+    color: #4aaaa5;
 }
 
 a {
@@ -160,4 +160,63 @@ textarea {
 .image-5 {
     position: relative;
     top: 220px;
+}
+
+.image-1-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    position: absolute;
+    bottom: -150px;
+    text-align: center;
+    
+
+}
+
+.image-2-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left: 220px;
+    bottom: -150px;
+}
+
+.image-3-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    left: 440px;
+    bottom: -150px;
+}
+
+.image-4-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    left: 660px;
+    bottom: -150px;
+}
+
+.image-5-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    right: 760px;
+    bottom: -330px;
 }
