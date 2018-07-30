@@ -109,7 +109,7 @@ textarea {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    height: 800px;
+    height: 850px;
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
     margin-bottom: 40px;
@@ -146,7 +146,7 @@ textarea {
 .image-2 {
     position: relative;
     left: 50px;
-    bottom: 23px;
+    bottom: 24px;
 }
 
 .image-3 {
