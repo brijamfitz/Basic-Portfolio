@@ -140,7 +140,6 @@ p {
     background-color: #ffffff;
     line-height: 1.5;
     position: relative;
-    
 }
 
 .links {
@@ -254,9 +253,3 @@ p {
     position: absolute;
     top: 140px;
 }
-
-/* .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-} */
