@@ -59,8 +59,8 @@ footer {
     border-top: solid;
     border-color: #4aaaa5;
     color: #ffffff;
-    border-width: 5px;
-    font-size: 14px; 
+    border-width: 6px;
+    font-size: 12px; 
     /* position: fixed;
     bottom: 0;
     width: 100%;   */
@@ -252,4 +252,10 @@ p {
     padding-bottom: 10px;
     position: absolute;
     top: 140px;
+}
+
+.home {
+    text-decoration: none;
+    color: white;
+    padding: 0;
 }
