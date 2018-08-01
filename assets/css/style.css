@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-image: url("../images/concrete-texture.png");
+    background-image: url("../images/grey.png");
 }
 
 header {
@@ -44,7 +44,7 @@ a {
 button {
     color: #ffffff;
     background-color: #4aaaa5;
-    padding: 5px 10px 5px 10px;  
+    padding: 5px 20px 5px 20px;  
     font-size: 14px; 
 }
 
@@ -56,7 +56,7 @@ footer {
     border-top: solid;
     border-color: #4aaaa5;
     color: #ffffff;
-    border-width: 10px;
+    border-width: 5px;
     font-size: 14px; 
     /* position: fixed;
     bottom: 0;
@@ -81,7 +81,7 @@ textarea {
 
 .me {
     margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-top: 5px;
     border: solid;
     border-color: #cccccc;
@@ -100,7 +100,7 @@ textarea {
     border-color: #dddddd;
     color: #777777;
     background-color: #ffffff;
-    line-height: 1.5;
+    line-height: 2;
 }
 
 .contact {
