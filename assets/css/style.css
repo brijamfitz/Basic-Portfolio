@@ -80,6 +80,7 @@ textarea {
     width: 955px;
     height: 200px;
     margin-bottom: 10px;
+    max-width: 955px;
 }
 
 p {
