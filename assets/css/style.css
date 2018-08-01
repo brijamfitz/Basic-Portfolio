@@ -41,7 +41,8 @@ a {
 button {
     color: #ffffff;
     background-color: #4aaaa5;
-    padding: 5px 10px 5px 10px;   
+    padding: 5px 10px 5px 10px;  
+    font-size: 14px; 
 }
 
 footer {
@@ -61,7 +62,6 @@ footer {
 
 img {
     float: left;
-    padding-right: 20px;
 }
 
 input {
@@ -76,7 +76,15 @@ textarea {
     margin-bottom: 10px;
 }
 
-/* This is on index.html */
+.me {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border: solid;
+    border-color: #cccccc;
+    float: left;
+}
+
 .about-me {
     background-color: cyan;
     margin-left: auto;
@@ -92,13 +100,11 @@ textarea {
     line-height: 1.5;
 }
 
-/* This is on contact.html */
 .contact {
     background-color: cyan;
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    /* height: 480px; */
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
     margin-bottom: 40px;
@@ -109,7 +115,6 @@ textarea {
     line-height: 1.5;
 }
 
-/* This is on portfolio.html */
 .portfolio {
     background-color: cyan;
     margin-left: auto;
@@ -124,6 +129,7 @@ textarea {
     color: #777777;
     background-color: #ffffff;
     line-height: 1.5;
+    position: relative;
 }
 
 .links {
@@ -135,7 +141,7 @@ textarea {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     float: right;
     margin-top: -56px;
-    margin-right: -48px;
+    margin-right: -44px;
     color: #777777;
 }
 
@@ -145,41 +151,41 @@ textarea {
     margin-left: auto;
 }
 
-/* These are on portfolio.html */
 .image-1 {
-    position: relative;
+    position: absolute;
 }
 
 .image-2 {
-    position: relative;
-    left: 50px;
-    bottom: 24px;
+    position: absolute;
+    top: 128px;
+    left: 400px;
 }
 
 .image-3 {
-    position: relative;
-    right: 440px;
-    top: 200px;
+    position: absolute;
+    left: 21px;
+    top: 370px;
 }
 
 .image-4 {
-    position: relative;
-    right: 390px;
-    top: 176px;
+    position: absolute;
+    top: 369px;
+    left: 400px;
 }
 
 .image-5 {
-    position: relative;
-    top: 220px;
+    position: absolute;
+    left: 21px;
+    bottom: 77px;
 }
 
 .image-1-text {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 200px;
+    width: 300px;
     position: absolute;
-    bottom: -150px;
+    top: 130px;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -189,53 +195,46 @@ textarea {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 200px;
-    position: absolute;
+    width: 300px;
     text-align: center;
-    left: 220px;
-    bottom: -150px;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: absolute;
+    top: 130px;
 }
 
 .image-3-text {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 200px;
-    position: absolute;
-    bottom: 20px;
+    width: 300px;
     text-align: center;
-    left: 440px;
-    bottom: -150px;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: absolute;
+    top: 130px;
 }
 
 .image-4-text {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 200px;
-    position: absolute;
-    bottom: 20px;
+    width: 300px;
     text-align: center;
-    left: 660px;
-    bottom: -150px;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: absolute;
+    top: 130px;
 }
 
 .image-5-text {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 200px;
-    position: absolute;
-    bottom: 20px;
+    width: 300px;
     text-align: center;
-    right: 760px;
-    bottom: -330px;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: absolute;
+    top: 130px;
 }
