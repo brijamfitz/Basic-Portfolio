@@ -44,6 +44,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #4aaaa5;
+    text-decoration: underline;
+}
+
 button {
     color: #ffffff;
     background-color: #4aaaa5;
@@ -259,4 +264,34 @@ p {
     text-decoration: none;
     color: white;
     padding: 0;
+}
+
+.home:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.image-1-text:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.image-2-text:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.image-3-text:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.image-4-text:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.image-5-text:hover {
+    color: #cccccc;
+    text-decoration: underline;
 }
