@@ -60,11 +60,10 @@ footer {
     background-color: #666666;
     padding: 20px;
     text-align: center;
-    
     border-top: solid;
-    border-color: #4aaaa5;
+    border-color: #cccccc;
     color: #ffffff;
-    border-width: 6px;
+    border-width: 5px;
     font-size: 12px; 
     width: 100%;
     /* To toggle the sticky footer on/off, comment out the three properties below */  
