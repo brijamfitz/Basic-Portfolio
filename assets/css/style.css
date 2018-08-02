@@ -60,15 +60,17 @@ footer {
     background-color: #666666;
     padding: 20px;
     text-align: center;
-    margin-top: 420px;
+    
     border-top: solid;
     border-color: #4aaaa5;
     color: #ffffff;
     border-width: 6px;
     font-size: 12px; 
-    /* position: fixed;
+    width: 100%;
+    /* To toggle the sticky footer on/off, comment out the three properties below */  
+    margin-top: 420px;
+    position: fixed;
     bottom: 0;
-    width: 100%;   */
 }
 
 img {
@@ -108,7 +110,7 @@ p {
     width: 960px;
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 420px;
     border: solid;
     border-color: #dddddd;
     color: #777777;
@@ -123,7 +125,7 @@ p {
     width: 960px;
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 420px;
     border: solid;
     border-color: #dddddd;
     color: #777777;
@@ -139,7 +141,7 @@ p {
     height: 840px;
     padding: 20px 20px 20px 20px;
     margin-top: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 420px;
     border: solid;
     border-color: #dddddd;
     color: #777777;
