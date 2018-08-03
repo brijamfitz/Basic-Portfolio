@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 0;
     margin: 0;
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-bottom: 0;
@@ -18,7 +18,7 @@ header {
 h1 {
     background-color: #4aaaa5;
     color: white;
-    padding: 20px;
+    padding: 30px 20px 30px 20px;
     width: 20%;
     text-align: center;
     font-size: 22px;
@@ -152,7 +152,7 @@ p {
 .links {
     background-color: #ffffff;
     padding-right: 0;
-    padding-bottom: 25px;
+    padding-bottom: 30px;
     width: 30%;
     text-align: center;
     font-size: 14px;
