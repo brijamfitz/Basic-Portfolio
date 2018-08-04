@@ -97,6 +97,10 @@ p {
     margin-bottom: 15px;
 }
 
+strong {
+    font-weight: bold;
+}
+
 .me {
     margin-right: 20px;
     margin-bottom: 10px;
