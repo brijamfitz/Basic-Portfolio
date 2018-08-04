@@ -26,6 +26,7 @@ h1 {
     margin-left: -23px;
     position: absolute;
     bottom: 0;
+    font-weight: bold;
 }
 
 h2 {
@@ -36,6 +37,8 @@ h2 {
     margin-bottom: 30px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 22px;
+    font-weight: bold;
+
 }
 
 a {
@@ -91,6 +94,7 @@ textarea {
 
 p {
     line-height: 2;
+    margin-bottom: 15px;
 }
 
 .me {
@@ -179,26 +183,26 @@ p {
 
 .image-2 {
     position: absolute;
-    top: 124px;
+    top: 106px;
     left: 400px;
 }
 
 .image-3 {
     position: absolute;
     left: 20px;
-    top: 370px;
+    top: 360px;
 }
 
 .image-4 {
     position: absolute;
-    top: 370px;
+    top: 360px;
     left: 400px;
 }
 
 .image-5 {
     position: absolute;
-    left: 21px;
-    top: 616px;
+    left: 20px;
+    top: 614px;
 }
 
 .image-1-text {
