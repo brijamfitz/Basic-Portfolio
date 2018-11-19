@@ -9,6 +9,10 @@ It contains three pages:
 
 This site was built using HTML and CSS.
 
+&nbsp;
+
 Designed and maintained by Brian Fitzgerald
+
 Email: brianjfitzgerald@gmail.com
-Copyright 2018
+
+&#169; 2018
